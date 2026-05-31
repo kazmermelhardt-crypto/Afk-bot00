@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "islersmpfixed.aternos.me",
+    "port": 53147,
     "version": "",
     "try-creative": false
   },
@@ -27,12 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Speedster69!",
         "I like to play Minecraft!"
       ]
     },
@@ -61,8 +61,8 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
-    "console-commands": true
+    "chat": false,
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
